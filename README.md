@@ -1,4 +1,4 @@
-# Remote Analyst Portfolio
+# Analyst Portfolio
 
 Bootstrapped repo that will hold:
 
